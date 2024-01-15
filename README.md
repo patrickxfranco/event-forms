@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Formulário de Eventos é um projeto simples para prática de técnicas apresentadas durante as aulas do Explorer.
 
-- [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/formulario-evento/) 
+- [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/event-forms/) 
 
 ## 🔖 Layout
 
