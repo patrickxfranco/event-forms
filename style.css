@@ -230,4 +230,12 @@ input:invalid {
     display: flex;
     flex-direction: column;
   }
+
+  .col-3 input-wrapper {
+    width: 100%
+  }
+
+  .col-3 input-wrapper input {
+    width: 100%;
+  }
 }
